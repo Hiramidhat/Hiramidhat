@@ -2,9 +2,7 @@
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td align="center" valign="middle" style="border: none; padding-right: 15px;">
-        <a href="https://github.com/Hiramidhat">
-          <img src="https://ui-avatars.com/api/?name=Hira+Midhat&background=0d1117&color=00f0ff&size=128&bold=true&rounded=true" width="70" height="70" alt="Hira Midhat" />
-        </a>
+        <a href="https://github.com/Hiramidhat"><img src="https://ui-avatars.com/api/?name=Hira+Midhat&background=0d1117&color=00f0ff&size=128&bold=true&rounded=true" width="70" height="70" alt="Hira Midhat" /></a>
       </td>
       <td align="left" valign="middle" style="border: none;">
         <h2 style="margin: 0; padding: 0; border: none; font-size: 22px;">
@@ -14,13 +12,9 @@
           <strong>AI Engineering Intern Candidate</strong> &bull; <strong>BS Artificial Intelligence, 5th Sem (GPA 3.56/4.0)</strong>
         </p>
         <p style="margin: 0; padding: 0;">
-          <a href="https://github.com/Hiramidhat" target="_blank">
-            <img src="https://img.shields.io/badge/github.com%2FHiramidhat-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-          </a>
+          <a href="https://github.com/Hiramidhat" target="_blank"><img src="https://img.shields.io/badge/github.com%2FHiramidhat-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
           &nbsp;
-          <a href="https://linkedin.com/in/hira-m-53449334b" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
+          <a href="https://linkedin.com/in/hira-m-53449334b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         </p>
       </td>
     </tr>
@@ -59,7 +53,7 @@
 
 - 🎓 **Academics:** BS Artificial Intelligence (5th Semester) | GPA: **3.56 / 4.0** at Green International University
 - 🎯 **Specialization:** Applied Generative AI (RAG, LLM orchestration) & Computer Vision Pipelines
-- 🧠 **Core Competencies:** RAG &bull; Computer Vision &bull; Speech Recognition &bull; AI Search Algorithms
+- 🧠 **Core Competencies:** RAG • Computer Vision • Speech Recognition • AI Search Algorithms
 - 🛠️ **Engineering Toolkit:** Python, LangChain, OpenCV, MediaPipe, Prompt Engineering, LLM APIs (Groq/Gemini), Streamlit, Git & GitHub
 - 💼 **Soft Skills & Leadership:** Project Management, Time Management, Leadership
 
@@ -107,33 +101,20 @@
 
 ### 📊 GitHub Analytics
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hiramidhat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiramidhat&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hiramidhat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hiramidhat&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📬 Connect & Collaborate
 
 <p align="center">
-  <a href="mailto:hiramidhat596@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hiramidhat596%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/hira-m-53449334b" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-hira--m--53449334b-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hiramidhat" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Hiramidhat-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:hiramidhat596@gmail.com"><img src="https://img.shields.io/badge/Gmail-hiramidhat596%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/hira-m-53449334b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-hira--m--53449334b-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Hiramidhat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Hiramidhat-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
