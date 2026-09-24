@@ -59,7 +59,7 @@
 
 - 🎓 **Academics:** BS Artificial Intelligence (5th Semester) | GPA: **3.56 / 4.0** at Green International University
 - 🎯 **Specialization:** Applied Generative AI (RAG, LLM orchestration) & Computer Vision Pipelines
-- 🧠 **Core Competencies:** RAG • Computer Vision • Speech Recognition • AI Search Algorithms
+- 🧠 **Core Competencies:** RAG &bull; Computer Vision &bull; Speech Recognition &bull; AI Search Algorithms
 - 🛠️ **Engineering Toolkit:** Python, LangChain, OpenCV, MediaPipe, Prompt Engineering, LLM APIs (Groq/Gemini), Streamlit, Git & GitHub
 - 💼 **Soft Skills & Leadership:** Project Management, Time Management, Leadership
 
