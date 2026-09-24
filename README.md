@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&width=550&lines=AI+Engineering+Intern;BS+AI+Student;Full-Stack+AI+Builder" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&width=550&lines=AI+Engineering+Intern;BS+AI+Student;Full-Stack+AI+Builder" alt="Typing Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Hira Midhat 👋</h1>
@@ -21,51 +21,51 @@
 
 ---
 
-### 💡 About & Engineering Focus
+### 💡 About Me
 
 > AI Engineering intern candidate with hands-on experience shipping **4 deployed LLM** and **computer-vision** applications — from **RAG**-based chatbots to real-time gesture control systems. Comfortable across the stack: **Python**, **LangChain**, **OpenCV**, and **API integration**.
 
-- 🎓 **Education:** BS Artificial Intelligence (5th Semester) | GPA: **3.56 / 4.0** — Green International University
-- 🎯 **Target:** AI Engineering Internship (LLM systems, Computer Vision, Agentic Workflows)
+- 🎓 **Academics:** BS Artificial Intelligence (5th Semester) | GPA: **3.56 / 4.0** at Green International University
+- 🎯 **Specialization:** Applied Generative AI (RAG, LLM orchestration) & Computer Vision Pipelines
 - 🧠 **Core Competencies:** RAG &bull; Computer Vision &bull; Speech Recognition &bull; AI Search Algorithms
-- 🛠️ **Technical Arsenal:** Python, LangChain, OpenCV, MediaPipe, Prompt Engineering, LLM APIs (Groq / Gemini), Streamlit, Git & GitHub
-- 🤝 **Leadership & Execution:** Project Management, Time Management, Leadership
+- 🛠️ **Engineering Toolkit:** Python, LangChain, OpenCV, MediaPipe, Prompt Engineering, LLM APIs (Groq/Gemini), Streamlit, Git & GitHub
+- 💼 **Soft Skills & Leadership:** Project Management, Time Management, Leadership
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
-#### 1. **Hira's Royal AI** `🚀 Deployed`
-*Conversational AI chatbot delivering grounded, zero-hallucination document intelligence from user uploads.*
-- **Tech Stack:** `Python` `LangChain` `Groq API` `Gemini API` `Streamlit` `PythonAnywhere`
+#### 1. Hira's Royal AI `🚀 Deployed`
+*Streamlit conversational AI chatbot answering queries from user-uploaded documents with zero-hallucination grounding.*
+- **Tech Stack:** `Python` `LangChain` `LLM APIs (Groq/Gemini)` `Streamlit` `PythonAnywhere`
 - **Key Features:**
-  - Production-ready RAG architecture ingesting, chunking, and querying user-uploaded **PDF** and **DOCX** files.
-  - High-throughput, low-latency contextual generation orchestrated via LangChain with Groq and Gemini APIs.
-  - Live deployed and accessible on **PythonAnywhere**.
+  - Robust end-to-end RAG workflow extracting and chunking knowledge from uploaded **PDF** and **DOCX** files.
+  - Low-latency inference integration with Groq and Google Gemini API endpoints.
+  - Fully deployed and hosted on **PythonAnywhere** for public access.
 
-#### 2. **Interview IQ** `🎙️ AI Mock-Interview & Vision Tracking`
-*Interactive AI mock-interview platform pairing a synthetic conversational interviewer with real-time biometric tracking.*
-- **Tech Stack:** `Python` `Streamlit` `Computer Vision` `Speech Synthesis` `LLM APIs`
+#### 2. Interview IQ `🎙️ Multimodal AI`
+*AI mock-interview platform combining a speaking virtual interviewer with real-time biometric confidence tracking.*
+- **Tech Stack:** `Python` `Streamlit` `OpenCV` `Webcam Vision Tracking` `Speech Synthesis` `LLM APIs`
 - **Key Features:**
-  - Real-time speaking AI interviewer delivering dynamic, role-tailored technical evaluations.
-  - Webcam-based confidence tracking analyzing candidate eye contact and head stability metrics.
-  - Post-session evaluation engine outputting actionable performance scorecards.
+  - Interactive voice-enabled interviewer that asks domain-specific questions in real time.
+  - Computer vision webcam tracking evaluating candidate composure (eye contact, head stability).
+  - Automated post-session evaluation scorecard summarizing communication and confidence metrics.
 
-#### 3. **Gesture & Voice Controlled Desktop Assistant** `🎯 Real-time CV & Multimodal`
-*Touchless human-computer interface enabling low-latency OS navigation through hand kinematics and speech commands.*
+#### 3. Gesture & Voice Controlled Desktop Assistant `🎯 Real-time CV`
+*Touchless human-computer interaction system fusing high-frame-rate gesture recognition with voice command execution.*
 - **Tech Stack:** `Python` `OpenCV` `MediaPipe` `Speech Recognition`
 - **Key Features:**
-  - High-framerate computer vision pipeline engineered with OpenCV and MediaPipe for spatial gesture tracking.
-  - Touchless desktop navigation and application management.
-  - Integrated speech recognition module for seamless multimodal voice-command execution.
+  - Real-time computer vision pipeline engineered with **MediaPipe** and **OpenCV** for spatial hand tracking.
+  - Hands-free desktop navigation, application launching, and OS-level shortcut triggering.
+  - Voice-command module enabling multimodal control and natural vocal input fallback.
 
-#### 4. **AI Study Assistant** `📚 Workspace RAG & Focus Suite`
-*Workspace-based academic productivity system combining document retrieval with structured study session tooling.*
+#### 4. AI Study Assistant `📚 RAG & Productivity`
+*Workspace-based academic study assistant combining document intelligence with deep-focus productivity tooling.*
 - **Tech Stack:** `Python` `Streamlit` `LangChain` `RAG Architecture`
 - **Key Features:**
-  - Modular workspace organization tailored for managing notes, research papers, and course materials.
-  - In-depth document RAG Q&A providing contextual answers directly grounded in user-supplied courseware.
-  - Integrated Pomodoro focus timer to maintain deep-work productivity intervals.
+  - Workspace-oriented organization allowing structured categorization of study modules and subjects.
+  - Contextual document Q&A powered by LangChain retrieval over textbooks, lecture slides, and notes.
+  - Integrated Pomodoro focus timer to maintain structured study-and-break cycles.
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-### 📬 Connect & Collaborate
+### 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:hiramidhat596@gmail.com">
